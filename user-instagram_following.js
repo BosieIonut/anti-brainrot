@@ -13,6 +13,8 @@
         if (
             url === "https://www.instagram.com/" ||
             url === "https://instagram.com/" ||
+            url.startsWith("https://www.instagram.com/reels")
+            url.startsWith("https://www.instagram.com/explore")
             url.startsWith("https://www.instagram.com/?variant=home")
         ) {
             if (url !== TARGET) {
