@@ -1,0 +1,3 @@
+youtube.com##ytd-rich-grid-renderer
+youtube.com##ytd-item-section-renderer
+instagram.com##+js(user-instagram_following.js)
